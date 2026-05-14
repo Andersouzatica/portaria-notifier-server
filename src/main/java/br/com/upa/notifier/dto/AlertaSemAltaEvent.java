@@ -41,4 +41,10 @@ public class AlertaSemAltaEvent {
     private String nomeMedico;
 
     private String especialidade;
+    private String snRaioX;
+    private String snLab;
+    private String snMed;
+    private String snPrioridadeClassificacao;
+    private String tpAtendimento;
+    private Integer idade;
 }
